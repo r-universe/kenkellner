@@ -1,0 +1,10 @@
+[
+  {
+    "package": "jagsUI",
+    "oncran": true
+  },
+  {
+    "package": "ubms",
+    "oncran": true
+  }
+]
