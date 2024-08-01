@@ -5,6 +5,9 @@
 [submodule "AHMbook"]
 	path = AHMbook
 	url = https://github.com/kenkellner/ahmbook
+[submodule "ASMbook"]
+	path = ASMbook
+	url = https://github.com/kenkellner/asmbook
 [submodule "IPMbook"]
 	path = IPMbook
 	url = https://github.com/kenkellner/ipmbook
