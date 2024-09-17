@@ -11,6 +11,3 @@
 [submodule "jagsUI"]
 	path = jagsUI
 	url = https://github.com/kenkellner/jagsui
-[submodule "ubms"]
-	path = ubms
-	url = https://github.com/kenkellner/ubms
